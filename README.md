@@ -73,3 +73,13 @@ We used BERT with SVM and Bi-LSTMs for predicting the stance.
 - Sai Vikhyath Kudhroli
 - Tanuja Renu Sudha
 
+
+
+
+
+
+
+
+
+
+
